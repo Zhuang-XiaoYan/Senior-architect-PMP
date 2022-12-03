@@ -12,6 +12,7 @@
 ---
 # 一、Xmind
 
+- [PMP项目管理百度云] https://pan.baidu.com/s/1XT5Eawg129UxGl9RxmXWQA 提取码：bmrh
 
 ---
 
