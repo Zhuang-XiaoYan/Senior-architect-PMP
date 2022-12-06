@@ -14,6 +14,19 @@
 
 - [PMP项目管理百度云] https://pan.baidu.com/s/1XT5Eawg129UxGl9RxmXWQA 提取码：bmrh
 
+![Image text](01-Xmind/01.项目整合管理.png) 
+![Image text](01-Xmind/02.项目范围管理.png) 
+![Image text](01-Xmind/03.项目进度管理.png) 
+![Image text](01-Xmind/04.项目成本管理.png) 
+![Image text](01-Xmind/05.项目质量管理.png) 
+![Image text](01-Xmind/06.项目资源管理.png) 
+![Image text](01-Xmind/07.项目沟通管理.png) 
+![Image text](01-Xmind/08.项目风险管理.png) 
+![Image text](01-Xmind/09.项目采购管理.png) 
+![Image text](01-Xmind/10.项目相关方管理.png) 
+![Image text](01-Xmind/敏捷思维导图.png) 
+
+
 ---
 
 # 二、PMP培训讲义
