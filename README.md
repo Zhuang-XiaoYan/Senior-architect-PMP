@@ -13,7 +13,7 @@
 # 一、Xmind
 
 - [PMP项目管理视频教程百度云] https://pan.baidu.com/s/1XT5Eawg129UxGl9RxmXWQA 提取码：bmrh
-
+![Image text](01-Xmind/00.PMP学习框架管理.png)
 ![Image text](01-Xmind/01.项目整合管理.png) 
 ![Image text](01-Xmind/02.项目范围管理.png) 
 ![Image text](01-Xmind/03.项目进度管理.png) 
